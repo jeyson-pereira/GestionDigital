@@ -46,16 +46,10 @@ $ yarn install
 
 Esto instalara las dependencias necesarias para que nuestro proyecto funcione.
 
-Y para ejecutar el proyecto, es necesario el comando:
-
-```bash
-$ yarn start
-```
-## Uso local Expo Go
+### Ejecutar proyecto (Expo Go) ⚡
 
 Es necesario tener instalada la aplicación Expo Go encontrada en la PlayStore ([Expo Go Playstore](https://play.google.com/store/apps/details?id=host.exp.exponent))
 ```bash
-$ yarn install
 $ yarn start
 ```
 Y finalmente leer el codigo QR mostrado en consola desde la aplicación *Expo Go*.
