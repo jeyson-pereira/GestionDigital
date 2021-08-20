@@ -1,0 +1,9 @@
+.dark-primary-color    { background: #024C81 }
+.default-primary-color { background: #046CA0 }
+.light-primary-color   { background: #0583B0 }
+.text-primary-color    { color: #FFFFFF }
+.secondary-text-color  { color: #82AEC0 }
+.alternative-text      { color: #C0CED5 }
+
+.right-confirm-color   { color: #046CA0 }
+.wrong-cancel-color    { color: #a00404 }
